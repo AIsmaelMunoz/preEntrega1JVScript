@@ -2,7 +2,7 @@ let carritoTotal = 0
 
 function sumaTotal(precios){
     carritoTotal = carritoTotal + precios
-    console.log('Totalen carrito $'+carritoTotal)
+    console.log('Total en carrito $'+carritoTotal)
 }
 
 let idProducto = parseInt(prompt('Tienda A la Par\n1-Remera adidas. $20000\n2-Campera Nike. $40000\n3-Pantalon Puma. $35000\n4-Short Nike. $22000\n0-Para finalizar'))
