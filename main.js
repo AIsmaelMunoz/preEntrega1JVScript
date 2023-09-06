@@ -34,3 +34,5 @@ while (idProducto !== 0) {
 
 alert('El total de su compre es de $'+carritoTotal)
 
+
+
