@@ -1,0 +1,123 @@
+const remeras = [{
+    id: 1,
+    marca: 'Under Armour',
+    talle: 'L',
+    precio: 30000,
+},
+{
+    id:2,
+    marca: 'Under Armour',
+    talle: 'XL',
+    precio: 22000,
+},
+{
+    id: 3,
+    marca: 'Nike',
+    talle: 'XS',
+    precio: 12000,
+},
+{
+    id: 4,
+    marca: 'Nike',
+    talle: 'M',
+    precio: 45000,
+},
+{
+    id: 5,
+    marca: 'Adidas',
+    talle: 'S',
+    precio: 15000,
+},
+{
+    id: 6,
+    marca: 'Adidas',
+    talle: 'XL',
+    precio: 18000,
+},
+{
+    id: 7,
+    marca: 'Puma',
+    talle: 'L',
+    precio: 10000,
+},
+{
+    id: 8,
+    marca: 'Puma',
+    talle: 'XXL',
+    precio: 15000,
+},
+{
+    id: 9,
+    marca: 'Levis',
+    talle: 'S',
+    precio: 20000,
+},
+{
+    id: 10,
+    marca: 'Levis',
+    talle: 'L',
+    precio: 30000,
+},
+]
+
+const pantalones = [{
+    id: 1,
+    marca: 'Nike',
+    talle: 'L',
+    precio: 40000,
+},
+{
+    id: 2,
+    marca: 'Under Armour',
+    talle: 'XL',
+    precio: 22000,
+},
+{
+    id: 3,
+    marca: 'Nike',
+    talle: 'XS',
+    precio: 12000,
+},
+{
+    id: 4,
+    marca: 'Under Armour',
+    talle: 'M',
+    precio: 55000,
+},
+{
+    id: 5,
+    marca: 'Adidas',
+    talle: 'S',
+    precio: 15000,
+},
+{
+    id: 6,
+    marca: 'Adidas',
+    talle: 'XL',
+    precio: 28000,
+},
+{
+    id: 7,
+    marca: 'Levis',
+    talle: 'L',
+    precio: 10000,
+},
+{
+    id: 8,
+    marca: 'Puma',
+    talle: 'XXL',
+    precio: 18000,
+},
+{
+    id: 9,
+    marca: 'Levis',
+    talle: 'S',
+    precio: 20000,
+},
+{
+    id: 10,
+    marca: 'Levis',
+    talle: 'L',
+    precio: 32000,
+},
+]
